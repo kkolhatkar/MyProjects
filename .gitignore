@@ -2,6 +2,8 @@
 
 /.metadata/
 /RemoteSystemsTempFiles/
+/.sonarlint/
+
 
 **/.settings
 **/.classpath
@@ -9,3 +11,4 @@
 **/bin/
 **/build/
 **/lib/
+**/target/
